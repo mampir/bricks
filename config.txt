@@ -1,0 +1,7 @@
+split_time 7.0
+glue_time 5.0
+shooter_time 4.0
+split_chance 0.1
+glue_chance 0.05
+shooter_chance 0.05
+lives_count 3
